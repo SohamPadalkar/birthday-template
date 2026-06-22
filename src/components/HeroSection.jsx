@@ -20,20 +20,6 @@ export default function HeroSection() {
             <div className="relative z-10 px-6 py-10 md:px-12">
 
                 {/* Heading */}
-                <div className="text-center mb-10">
-                    <h1
-                        className="text-white text-5xl md:text-8xl"
-                        style={{
-                            fontFamily: "Cormorant Garamond",
-                        }}
-                    >
-                        Happy Birthday
-                    </h1>
-
-                    <p className="text-pink-100 mt-3 text-lg md:text-xl">
-                        A little something for a very special person ❤️
-                    </p>
-                </div>
 
                 {/* Main Layout */}
                 <div className="max-w-7xl mx-auto">
@@ -76,23 +62,20 @@ export default function HeroSection() {
                                     }}
                                 >
                                     <p>
-                                        On your special day, I just wanted to remind
-                                        you how truly amazing you are.
+                                        Happy happpy happy happpy birthdayyyyy Preetha,
+                                        I would like to thank the god, for giving me chance to be in your presence because of this day.
                                     </p>
 
                                     <p>
-                                        You bring warmth, happiness and beauty
-                                        wherever you go.
+                                        I wish you have a blast today, not just today tommorow, day after tommorow every freaking day of your life.
                                     </p>
 
                                     <p>
-                                        I hope this year brings you every dream,
-                                        every smile and every little thing your
-                                        heart wishes for.
+                                        I wish you always stay happy, smiling (I have never seen a preetier smile than yours) and just the way you are,
                                     </p>
 
                                     <p className="text-pink-700 font-semibold">
-                                        Happy Birthday ❤️
+                                        PERFECT
                                     </p>
                                 </div>
 
